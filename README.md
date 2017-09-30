@@ -1,2 +1,2 @@
 # QueueExample
-Multithreading Queue example
+Threadsafe Queue example
